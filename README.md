@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reshampangeni
+- 👋 Hi, I’m @ashishpangeni
 - 👀 I’m interested in Bug bountry
 - 🌱 I’m currently learning `ethical hacker` provided by cisco.
 - 💞️ I’m looking to collaborate on any friends who want to learn hacking and anyone who knows hacking.
